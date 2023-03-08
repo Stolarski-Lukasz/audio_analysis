@@ -1,0 +1,358 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 663.6
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Token"
+		xmin = 0.0
+		xmax = 663.6
+		intervals: size = 86
+		intervals [1]:
+			xmin = 0.0
+			xmax = 25.52
+			text = "CHAPTER I DESCRIPTION OF FARMER OAK , AN INCIDENT When Farmer Oak smiled, the corners of his mouth spread till they were within an unimportant distance of his ears, his eyes were reduced to chinks, and diverging wrinkles appeared round them, extending upon his countenance like the rays in a rudimentary sketch of the rising sun."
+		intervals [2]:
+			xmin = 25.52
+			xmax = 35.16
+			text = "His Christian name was Gabriel, and on working days he was a young man of sound judgment, easy motions, proper dress, and general good character."
+		intervals [3]:
+			xmin = 35.16
+			xmax = 62.56
+			text = "On Sundays he was a man of misty views, rather given to postponing, and hampered by his best clothes and umbrella: upon the whole, one who felt himself to occupy morally that vast middle space of Laodicean neutrality which lay between the Communion people of the parish and the drunken section, , that is, he went to church, but yawned privately by the time the con- gegation reached the Nicene creed,- and thought of what there would be for dinner when he meant to be listening to the sermon."
+		intervals [4]:
+			xmin = 62.56
+			xmax = 79.12
+			text = "Or, to state his character as it stood in the scale of public opinion, when his friends and critics were in tantrums, he was considered rather a bad man; when they were pleased, he was rather a good man; when they were neither, he was a man whose moral colour was a kind of pepper-and-salt mixture."
+		intervals [5]:
+			xmin = 79.12
+			xmax = 91.44
+			text = "Since he lived six times as many working-days as Sundays, Oak's appearance in his old clothes was most peculiarly his own , the mental picture formed by his neighbours in imagining him being always dressed in that way."
+		intervals [6]:
+			xmin = 91.44
+			xmax = 120.76
+			text = "He wore a low-crowned felt hat, spread out at the base by tight jamming upon the head for security in high winds, and a coat like Dr. Johnson's; his lower extremities being encased in ordinary leather leggings and boots emphatically large, affording to each foot a roomy apartment so constructed that any wearer might stand in a river all day long and know nothing of damp , their maker being a conscientious man who endeavoured to compensate for any weakness in his cut by unstinted dimension and solidity."
+		intervals [7]:
+			xmin = 120.76
+			xmax = 130.84
+			text = "Mr. Oak carried about him, by way of watch,- what may be called a small silver clock; in other words, it was a watch as to shape and intention, and a small clock as to size."
+		intervals [8]:
+			xmin = 130.84
+			xmax = 138.28
+			text = "This instrument being several years older than Oak's grandfather, had the peculiarity of going either too fast or not at all."
+		intervals [9]:
+			xmin = 138.28
+			xmax = 147.92
+			text = "The smaller of its hands, too, occasionally slipped round on the pivot, and thus, though the minutes were told with precision, nobody could be quite certain of the hour they belonged to."
+		intervals [10]:
+			xmin = 147.92
+			xmax = 167.76
+			text = "The stopping peculiarity of his watch Oak remedied by thumps and shakes, and he escaped any evil consequences from the other two defects by constant comparisons with and observations of the sun and stars, and by pressing his face close to the glass of his neighbours' windows, till he could discern the hour marked by the green-faced timekeepers within."
+		intervals [11]:
+			xmin = 167.76
+			xmax = 191.76
+			text = "It may be mentioned that Oak's fob being difficult of access, by reason of its somewhat high situation in the waistband of his trousers (which also lay at a remote height under his waistcoat), the watch was as a necessity pulled out by throwing the body to one side, compressing the mouth and face to a mere mass of ruddy flesh on account of the exertion, and drawing up the watch by its chain, like a bucket from a well."
+		intervals [12]:
+			xmin = 191.76
+			xmax = 202.64
+			text = "But some thoughtfull persons, who had seen him walking across one of his fields on a certain December morning , sunny and exceedingly mild , might have regarded Gabriel Oak in other aspects than these."
+		intervals [13]:
+			xmin = 202.64
+			xmax = 212.0
+			text = "In his face one might notice that many of the hues and curves of youth had tarried on to manhood: there even remained in his remoter crannies some relics of the boy."
+		intervals [14]:
+			xmin = 212.0
+			xmax = 218.48
+			text = "His height and breadth would have been sufficient to make his presence imposing, had they been exhibited with due consideration."
+		intervals [15]:
+			xmin = 218.48
+			xmax = 229.2
+			text = "But there is a way some men have, rural and urban alike, for which the mind is more responsible than flesh and sinew: it is a way of curtail- ing their dimensions by their manner of showing them."
+		intervals [16]:
+			xmin = 229.2
+			xmax = 243.04
+			text = "And from a quiet modesty that would have become a vestal which seemed continually to impress upon him that he had no great claim on the world's room, Oak walked unassumingly and with a faintly perceptible bend, yet distinct from a bowing of the shoulders."
+		intervals [17]:
+			xmin = 243.04
+			xmax = 252.96
+			text = "This may be said to be a defect in an individual if he depends for his valuation more upon his appearance than upon his capacity to wear well, which Oak did not."
+		intervals [18]:
+			xmin = 252.96
+			xmax = 258.92
+			text = "He had just reached the time of life at which ""young"" is ceasing to be the prefix of ""man"" in speaking of one."
+		intervals [19]:
+			xmin = 258.92
+			xmax = 278.28
+			text = "He was at the brightest period of masculine growth, for his intellect and his emotions were clearly separated: he had passed the time during which the influence of youth indiscriminately mingles them in the character of impulse, and he had not yet arrived at the stage wherein they become united again, in the character of prejudice, by the influence of a wife and family."
+		intervals [20]:
+			xmin = 278.28
+			xmax = 283.2
+			text = "In short, he was twenty-eight, and a bachelor."
+		intervals [21]:
+			xmin = 283.2
+			xmax = 287.44
+			text = "The field he was in this morning sloped to a ridge called Norcombe Hill."
+		intervals [22]:
+			xmin = 287.44
+			xmax = 292.48
+			text = "Through a spur of this hill ran the highway between Emminster and Chalk- Newton."
+		intervals [23]:
+			xmin = 292.48
+			xmax = 306.08
+			text = "Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."
+		intervals [24]:
+			xmin = 306.08
+			xmax = 311.24
+			text = "The waggon was laden with household goods and window plants, and on the apex of the whole sat a woman,"
+		intervals [25]:
+			xmin = 311.24
+			xmax = 313.08
+			text = "young"" and attractive."
+		intervals [26]:
+			xmin = 313.08
+			xmax = 320.44
+			text = "Gabriel had not beheld the sight for more than half a minute, when the vehicle was brought to a standstill just beneath his eyes."
+		intervals [27]:
+			xmin = 320.44
+			xmax = 322.48
+			text = "The tailboard of the waggon is gone, Miss."
+		intervals [28]:
+			xmin = 322.48
+			xmax = 324.64
+			text = "said the waggoner."
+		intervals [29]:
+			xmin = 324.64
+			xmax = 325.6
+			text = "Then I heard it fall."
+		intervals [30]:
+			xmin = 325.6
+			xmax = 329.04
+			text = "said the girl, in a soft, though not particularly low voice."
+		intervals [31]:
+			xmin = 329.04
+			xmax = 333.36
+			text = "I heard a noise I could not account for when we were coming up the hill."
+		intervals [32]:
+			xmin = 333.36
+			xmax = 335.04
+			text = "I'll run back."
+		intervals [33]:
+			xmin = 335.04
+			xmax = 335.36
+			text = "Do."
+		intervals [34]:
+			xmin = 335.36
+			xmax = 337.0
+			text = "she answered."
+		intervals [35]:
+			xmin = 337.0
+			xmax = 343.96
+			text = "The sensible horses stood , perfectly still, and the waggoner's steps sank fainter and fainter in the distance."
+		intervals [36]:
+			xmin = 343.96
+			xmax = 360.04
+			text = "The girl on the summit of the load sat motionless, surrounded by tables and chairs with their legs upwards, backed by an oak settle, and ornamented in front by pots of geraniums, myrtles, and cactuses, together with a caged canary , all probably from the windows of the house just vacated."
+		intervals [37]:
+			xmin = 360.04
+			xmax = 368.64
+			text = "There was also a cat in a willow basket, from the partly-opened lid of which she gazed with half-closed eyes, and affectionately-surveyed the small birds around."
+		intervals [38]:
+			xmin = 368.64
+			xmax = 377.4
+			text = "The handsome girl waited for some time idly in her place, and the only sound heard in the stillness was the hopping of the canary up-and down the perches of its prison."
+		intervals [39]:
+			xmin = 377.4
+			xmax = 379.8
+			text = "Then she looked attentively downwards."
+		intervals [40]:
+			xmin = 379.8
+			xmax = 386.2
+			text = "It was not at the bird, nor at the cat; it was at an oblong package tied in paper, and lying between them."
+		intervals [41]:
+			xmin = 386.2
+			xmax = 389.12
+			text = "She turned her head to learn if the waggoner were coming."
+		intervals [42]:
+			xmin = 389.12
+			xmax = 395.64
+			text = "He was not yet in sight; and her-eyes crept back to the package, her thoughts seeming to run upon what was inside it."
+		intervals [43]:
+			xmin = 395.64
+			xmax = 404.96
+			text = "At length she drew the article into her lap, and untied the paper covering; a small swing looking-glass was disclosed, in which she proceeded to survey herself attentively."
+		intervals [44]:
+			xmin = 404.96
+			xmax = 408.2
+			text = "She parted her lips and smiled."
+		intervals [45]:
+			xmin = 408.2
+			xmax = 417.12
+			text = "It was a fine morning, and the sun lighted up to a scarlet glow the crimson jacket she wore, and painted a soft lustre upon her bright face and dark hair."
+		intervals [46]:
+			xmin = 417.12
+			xmax = 428.76
+			text = "The myrtles, geraniums, and cactuses packed around her were fresh and green, and at such a leafless season they invested the whole concern of horses, waggon, furniture, and girl with a peculiar vernal charm."
+		intervals [47]:
+			xmin = 428.76
+			xmax = 444.72
+			text = "What possessed her to indulge in such a performance in the sight of the sparrows, blackbirds, and unperceived farmer who were alone its spectators, , whether the smile began as a factitious one, to test her capacity in that art, , nobody knows; it ended certainly in a real smile."
+		intervals [48]:
+			xmin = 444.72
+			xmax = 450.24
+			text = "She blushed at herself, and seeing her reflection blush, blushed the more."
+		intervals [49]:
+			xmin = 450.24
+			xmax = 462.64
+			text = "The change from the customary spot and necessary occasion of such an act , from the dressing hour in a bedroom to a time of travelling out of doors , lent to the idle deed a novelty it did not intrinsically possess."
+		intervals [50]:
+			xmin = 462.64
+			xmax = 464.56
+			text = "The picture was a delicate one."
+		intervals [51]:
+			xmin = 464.56
+			xmax = 471.12
+			text = "Woman's prescriptive infirmity had stalked into the sunlight, which had clothed it in the freshness of an originality."
+		intervals [52]:
+			xmin = 471.12
+			xmax = 478.04
+			text = "A cynical inference was irresistible by Gabriel Oak as he regarded the scene, generous though he fain would have been."
+		intervals [53]:
+			xmin = 478.04
+			xmax = 481.32
+			text = "There was no necessity whatever for her looking in the glass."
+		intervals [54]:
+			xmin = 481.32
+			xmax = 491.32
+			text = "She did not adjust her hat, or pat her hair, or press a dimple into shape, or do one thing to signify that any such intention had been her motive in taking up the glass."
+		intervals [55]:
+			xmin = 491.32
+			xmax = 507.56
+			text = "She simply observed herself as a fair product of Nature in the feminine kind, her thoughts seeming to glide into far-off though likely dramas in which men would play a part , vistas of probable triumphs , the smiles being of a phase suggesting that hearts were imagined as lost and won."
+		intervals [56]:
+			xmin = 507.56
+			xmax = 517.08
+			text = "Still, this was but conjecture, and the whole series of actions was so idly put forth as to make it rash to assert that intention had any part in them at all."
+		intervals [57]:
+			xmin = 517.08
+			xmax = 519.24
+			text = "The waggoner's steps were heard returning."
+		intervals [58]:
+			xmin = 519.24
+			xmax = 523.68
+			text = "She put the glass in the paper, and the whole again into its place."
+		intervals [59]:
+			xmin = 523.68
+			xmax = 537.64
+			text = "When the waggon had passed on, Gabriel withdrew from his point of espial, and descending into the road, followed the vehicle to the turnpike-gate some way beyond the bottom of the hill, where the object of his contemplation now halted for the payment of toll."
+		intervals [60]:
+			xmin = 537.64
+			xmax = 542.28
+			text = "About twenty steps still remained between him and the gate, when he heard a dispute."
+		intervals [61]:
+			xmin = 542.28
+			xmax = 548.08
+			text = "lt was a difference con- cerning twopence between the persons with the waggon and the man at the toll-bar."
+		intervals [62]:
+			xmin = 548.08
+			xmax = 555.52
+			text = "Mis'ess's niece is upon the top of the things, and she says that's enough that I've offered ye, you great miser, and she won't pay any more."
+		intervals [63]:
+			xmin = 555.52
+			xmax = 557.2
+			text = "These were the waggoner's words."
+		intervals [64]:
+			xmin = 557.2
+			xmax = 559.8
+			text = "Very well; then mis'ess's niece can't pass."
+		intervals [65]:
+			xmin = 559.8
+			xmax = 563.72
+			text = "said the turnpike-keeper, closing the gate."
+		intervals [66]:
+			xmin = 563.72
+			xmax = 568.08
+			text = "Oak looked from one to the other of the disputants, and fell into a reverie."
+		intervals [67]:
+			xmin = 568.08
+			xmax = 571.96
+			text = "There was something in the tone of twopence remarkably insignificant."
+		intervals [68]:
+			xmin = 571.96
+			xmax = 580.96
+			text = "Threepence had a definite value as money , it was an appreciable infringement on a day's wages, and, as such, a higgling matter; but twopence , "" Here."
+		intervals [69]:
+			xmin = 580.96
+			xmax = 584.36
+			text = "he said, stepping forward and handing twopence to the gatekeeper;"
+		intervals [70]:
+			xmin = 584.36
+			xmax = 586.28
+			text = "let the young woman pass."
+		intervals [71]:
+			xmin = 586.28
+			xmax = 590.84
+			text = "He looked up at her then; she heard his words, and looked down."
+		intervals [72]:
+			xmin = 590.84
+			xmax = 605.68
+			text = "Gabriel's features adhered throughout their form so exactly to the middle line between the beauty of St. John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."
+		intervals [73]:
+			xmin = 605.68
+			xmax = 613.56
+			text = "The redjacketed and dark- haired maiden seemed to think so too, for she carelessly glanced over him, and told her man to drive on."
+		intervals [74]:
+			xmin = 613.56
+			xmax = 625.24
+			text = "She might have looked her thanks to Gabriel on a minute scale, but she did not speak them; more probably she felt none, for in gaining her a passage he had lost her her point, and we know how women take a favour of that kind."
+		intervals [75]:
+			xmin = 625.24
+			xmax = 628.68
+			text = "The gatekeeper surveyed the retreating vehicle."
+		intervals [76]:
+			xmin = 628.68
+			xmax = 632.8
+			text = "That's a handsome maid"" he said to Oak ""But she has her faults."
+		intervals [77]:
+			xmin = 632.8
+			xmax = 633.32
+			text = "said Gabriel."
+		intervals [78]:
+			xmin = 633.32
+			xmax = 635.72
+			text = "True, farmer."
+		intervals [79]:
+			xmin = 635.72
+			xmax = 638.96
+			text = "And the greatest of them is , well, what it is always."
+		intervals [80]:
+			xmin = 638.96
+			xmax = 640.52
+			text = "Beating people down?"
+		intervals [81]:
+			xmin = 640.52
+			xmax = 641.0
+			text = "ay,"
+		intervals [82]:
+			xmin = 641.0
+			xmax = 642.44
+			text = "'tis so."
+		intervals [83]:
+			xmin = 642.44
+			xmax = 644.12
+			text = "O no."
+		intervals [84]:
+			xmin = 644.12
+			xmax = 645.88
+			text = "What, then?"
+		intervals [85]:
+			xmin = 645.88
+			xmax = 656.72
+			text = "Gabriel, perhaps a little piqued by the comely traveller's indifference, glanced back to where he had witnessed her performance over the hedge, and said,"
+		intervals [86]:
+			xmin = 656.72
+			xmax = 663.6
+			text = "Vanity."
